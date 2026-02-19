@@ -1,12 +1,13 @@
 # IADAI204-1000308-AbhinavChanakya
-**IPL Cricket Data Analysis – Decoding Match-Winning Factors**
- *Project Overview*
+****IPL Cricket Data Analysis – Decoding Match-Winning Factors****
+
+** *Project Overview***
 
 This project evaluates the information of Indian premier league (IPL) cricket in an attempt to identify the most important factors that determine the result of matches. With the help of Tableau, an interactive dashboard was created that will be used to assess the performance of players, rivalry between teams, and other situational factors of the match like toss and venue influence.
 
 The main objective of the project is to reveal practical recommendations to the IPL franchises, coaches, broadcasters and cricket enthusiasts since it converts the raw ball-by-ball and match-level data, into useful visual narratives.
 
- *Data Summary*
+** *Data Summary***
 
 The samples of the dataset employed in this project comprise:
 
@@ -36,8 +37,8 @@ Wickets (excluding run-outs)
 
 Checked data forms and guaranteed adequate aggregation in Tableau.
 
- *Key Insights*
-
+** *Key Insights*
+**
 Total runs and strike rate have been used as a measure of consistency as well as impact to determine the top batsmen.
 
 Top bowlers were examined in terms of efficiency in terms of wickets taken and economy rate.
@@ -48,7 +49,7 @@ Some of the venues showed good patterns of home-ground advantage.
 
 The analysis conducted on head to head rivalry showed dominant franchises in given matches.
 
- *Dashboard Features*
+** *Dashboard Features***
 
 The Tableau dashboard has:
 
@@ -75,7 +76,7 @@ Interactive graphs containing drill-down and tooltip tips.
 The dash board aims at making the users have a flow of story telling in a logical way:
 Researcher Performance - Club Competitiveness - Winning Matches Insights - Key Findings.
 
- *Tableau Public Dashboard*
+ ***Tableau Public Dashboard***
 
  Marble public Tableau Public link insertion.
 
@@ -83,7 +84,7 @@ Example:
 
 [IPL Statistics Data Analysis – Decoding Match-Winning Factors | Tableau Public](https://public.tableau.com/views/IPLStatisticsDataAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
- *Repository Structure*
+** *Repository Structure***
 +-- data/
     +-- matches.csv
     +-- deliveries.csv
@@ -92,7 +93,7 @@ Example:
 
 Important: CSV-files can only be uploaded as raw and not as gz because of memory constraint in github. The data is internally stored in the packaged Tableau workbook (.twbx).
 
- *Conclusion*
+** *Conclusion***
 
 This project shows that the integration of player-level statistics with the contextual match data can further explain the results of the IPL matches. Through the interactive graphical storytelling, stakeholders will be in a position to establish the trends in the performance of players, matches rivalry, and team strategic choices.
 
@@ -106,7 +107,7 @@ Powerplay death-over impact analysis.
 
 Win probability modelling
 
- *Technologies Used*
+ ***Technologies Used***
 
 Tableau Public (Charting & Dashboard)
 
